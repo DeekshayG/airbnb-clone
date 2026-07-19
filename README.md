@@ -118,31 +118,7 @@ http://localhost:8080/listings
 
 ---
 
-## Screenshots
 
-You can add screenshots here after uploading your project.
-
-Example:
-
-```
-Home Page
-
-(Add Screenshot)
-
-All Listings
-
-(Add Screenshot)
-
-Add Listing
-
-(Add Screenshot)
-
-Listing Details
-
-(Add Screenshot)
-```
-
----
 
 ## Future Enhancements
 
